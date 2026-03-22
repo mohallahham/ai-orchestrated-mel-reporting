@@ -18,6 +18,10 @@ These components are coordinated through an orchestration layer that produces an
 - `data/inputs/` small public sample inputs for demonstration
 - `data/ground_truth/` manually verified reference files used in Prototype 1 evaluation
 
+## Environment
+
+This project was developed and tested with `Python 3.10`.
+
 
 ## Running the App
 
