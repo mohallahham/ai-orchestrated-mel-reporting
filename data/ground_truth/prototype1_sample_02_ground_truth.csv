@@ -1,0 +1,13 @@
+row_id,expected_gender,expected_age,confidence,notes
+1,Male,24,high,clear
+2,Female,28,high,clear
+3,Female,56,high,clear
+4,Male,93,high,clear
+5,Female,19,high,clear
+6,Male,25,high,clear
+7,Female,46,high,clear
+8,Male,76,high,clear
+9,Male,38,high,clear
+10,Female,21,high,clear
+11,Male,18,high,clear
+12,Female,28,high,clear

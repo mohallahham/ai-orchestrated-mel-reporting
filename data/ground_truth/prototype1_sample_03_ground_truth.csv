@@ -1,0 +1,13 @@
+row_id,expected_gender,expected_age,confidence,notes
+1,Male,35,high,ذكر / ٣٥
+2,Female,96,high,انثى / ٩٦
+3,Female,88,high,انثى / ٨٨
+4,Male,75,high,ذكر / ٧٥
+5,Male,69,high,ذكر / ٦٩
+6,Female,79,high,انثى / ٧٩
+7,Male,44,high,ذكر / ٤٤
+8,Male,58,high,ذكر / ٥٨
+9,Female,27,high,انثى / ٢٧
+10,Male,41,high,ذكر / ٤١
+11,Male,24,high,ذكر / ٢٤
+12,Female,19,high,انثى / ١٩

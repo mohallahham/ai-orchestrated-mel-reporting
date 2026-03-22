@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints
+
+# Streamlit cache
+.streamlit/
+.pytest_cache/
+.vscode/
+
+# Output data
+data/runs/
+data/outputs/
+data/inputs/uploads/
+data/inputs/generated_from_audio_*/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
